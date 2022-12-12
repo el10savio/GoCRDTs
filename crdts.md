@@ -1,11 +1,11 @@
 
 | CRDT        | Description           | Link  |
-| ------------- |:-------------:| -----:|
-| crdts-for-fun-and-profit       | A primer on distributed systems and leveraging CRDTs  | https://github.com/el10savio/crdts-for-fun-and-profit |
-| gcounter-crdt        | GCounter CRDT Implemented in Go & Docker   | https://github.com/el10savio/gcounter-crdt |
-| PNCounter-crdt         | PNCounter CRDT Cluster implemented in Go & Docker    | https://github.com/el10savio/PNCounter-crdt |
-| lwwset-crdt         | Last Writer Wins Set CRDT Implemented in Go & Docker    | https://github.com/el10savio/lwwset-crdt |
-| gset-crdt         | GSet CRDT Cluster implemented in Go & Docker    | https://github.com/el10savio/gset-crdt |
-| twoPSet-crdt         | 2PSet CRDT Implemented in Go & Docker    | https://github.com/el10savio/twoPSet-crdt |
-| rga-crdt         |  RGA CRDT Implemented in Go   | https://github.com/el10savio/rga-crdt |
-| woot-crdt         | WOOT CRDT Collaborative Text Editor Implemented in Go    | https://github.com/el10savio/woot-crdt |
+| ------------- |:-------------|:-----|
+| CRDTs For Fun and Profit       | A primer on distributed systems and leveraging CRDTs  | [el10savio/crdts-for-fun-and-profit](https://github.com/el10savio/crdts-for-fun-and-profit) |
+| GCounter        | GCounter CRDT Implemented in Go & Docker   | [el10savio/gcounter-crdt](https://github.com/el10savio/gcounter-crdt) |
+| PNCounter         | PNCounter CRDT Implemented in Go & Docker    | [el10savio/PNCounter-crdt](https://github.com/el10savio/PNCounter-crdt) |
+| LWWSet         | Last Writer Wins Set CRDT Implemented in Go & Docker    | [el10savio/lwwset-crdt](https://github.com/el10savio/lwwset-crdt) |
+| GSet         | GSet CRDT Cluster Implemented in Go & Docker    | [el10savio/gset-crdt](https://github.com/el10savio/gset-crdt) |
+| TwoPSet         | 2PSet CRDT Implemented in Go & Docker    | [el10savio/twoPSet-crdt](https://github.com/el10savio/twoPSet-crdt) |
+| RGA         |  RGA CRDT Implemented in Go   | [el10savio/rga-crdt](https://github.com/el10savio/rga-crdt) |
+| WOOT         | WOOT CRDT Collaborative Text Editor Implemented in Go    | [el10savio/woot-crdt](https://github.com/el10savio/woot-crdt) |
